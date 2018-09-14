@@ -1,3 +1,3 @@
 # TensorFlow exercises
 
-This is a collection of exercises of [https://www.tensorflow.org/](TensorFlow), a Machine Learning framework.
+This is a collection of exercises of [TensorFlow](https://www.tensorflow.org/), a Machine Learning framework.
